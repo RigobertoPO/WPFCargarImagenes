@@ -1,0 +1,13 @@
+c:\users\rperez\documents\visual studio 2012\Projects\WpfCargarImagenes\WpfCargarImagenes\bin\Debug\WpfCargarImagenes.exe.config
+c:\users\rperez\documents\visual studio 2012\Projects\WpfCargarImagenes\WpfCargarImagenes\bin\Debug\WpfCargarImagenes.exe
+c:\users\rperez\documents\visual studio 2012\Projects\WpfCargarImagenes\WpfCargarImagenes\bin\Debug\WpfCargarImagenes.pdb
+c:\users\rperez\documents\visual studio 2012\Projects\WpfCargarImagenes\WpfCargarImagenes\obj\Debug\WpfCargarImagenes.csprojResolveAssemblyReference.cache
+c:\users\rperez\documents\visual studio 2012\Projects\WpfCargarImagenes\WpfCargarImagenes\obj\Debug\MainWindow.baml
+c:\users\rperez\documents\visual studio 2012\Projects\WpfCargarImagenes\WpfCargarImagenes\obj\Debug\MainWindow.g.cs
+c:\users\rperez\documents\visual studio 2012\Projects\WpfCargarImagenes\WpfCargarImagenes\obj\Debug\App.g.cs
+c:\users\rperez\documents\visual studio 2012\Projects\WpfCargarImagenes\WpfCargarImagenes\obj\Debug\WpfCargarImagenes_MarkupCompile.cache
+c:\users\rperez\documents\visual studio 2012\Projects\WpfCargarImagenes\WpfCargarImagenes\obj\Debug\WpfCargarImagenes.g.resources
+c:\users\rperez\documents\visual studio 2012\Projects\WpfCargarImagenes\WpfCargarImagenes\obj\Debug\WpfCargarImagenes.Properties.Resources.resources
+c:\users\rperez\documents\visual studio 2012\Projects\WpfCargarImagenes\WpfCargarImagenes\obj\Debug\WpfCargarImagenes.csproj.GenerateResource.Cache
+c:\users\rperez\documents\visual studio 2012\Projects\WpfCargarImagenes\WpfCargarImagenes\obj\Debug\WpfCargarImagenes.exe
+c:\users\rperez\documents\visual studio 2012\Projects\WpfCargarImagenes\WpfCargarImagenes\obj\Debug\WpfCargarImagenes.pdb
